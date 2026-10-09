@@ -108,7 +108,7 @@ header nav {
 header nav a {
     display: block;
     padding: 8px;
-    color: var(--accent1-color);
+    color: #172b35;
     text-decoration: none;
 }
 
